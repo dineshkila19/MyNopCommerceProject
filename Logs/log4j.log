@@ -1,0 +1,362 @@
+2023-10/03 16:11:43 INFO  Log:10 - =======verifyMyNopLogo=========
+2023-10/03 16:11:43 INFO  Log:16 - verifyMyNopLogo testcase is passed
+2023-10/03 16:11:43 INFO  Log:13 - ========verifyMyNopLogo==========
+2023-10/03 16:15:12 INFO  Log:10 - =======registerAccountTest=========
+2023-10/03 16:15:30 INFO  Log:16 - registerAccountTest testcase is passed
+2023-10/03 16:15:30 INFO  Log:13 - ========registerAccountTest==========
+2023-10/03 16:15:57 INFO  Log:10 - =======loginTest=========
+2023-10/03 16:16:02 INFO  Log:16 - successfully entered login credentials
+2023-10/03 16:16:02 INFO  Log:16 - loginTest testcase is passed
+2023-10/03 16:16:02 INFO  Log:13 - ========loginTest==========
+2023-10/03 16:18:18 INFO  Log:10 - =======searchProduct=========
+2023-10/03 16:18:28 INFO  Log:16 - user successfully click on the product
+2023-10/03 16:18:28 INFO  Log:16 - searchProduct testcase is passed
+2023-10/03 16:18:28 INFO  Log:13 - ========searchProduct==========
+2023-10/03 16:18:36 INFO  Log:10 - =======verifyTitle=========
+2023-10/03 16:18:40 INFO  Log:16 - verifyTitle testcase is passed
+2023-10/03 16:18:40 INFO  Log:13 - ========verifyTitle==========
+2023-10/03 16:20:25 INFO  Log:10 - =======SearchReasultPageTest=========
+2023-10/03 16:20:32 INFO  Log:16 - user clicks the htc
+2023-10/03 16:20:32 INFO  Log:16 - SearchReasultPageTest testcase is passed
+2023-10/03 16:20:32 INFO  Log:13 - ========SearchReasultPageTest==========
+2023-10/03 16:22:06 INFO  Log:10 - =======addToCartPageTest=========
+2023-10/03 16:22:17 INFO  Log:16 - user successfully entered quantity
+2023-10/03 16:22:20 INFO  Log:16 - addToCartPageTest testcase is passed
+2023-10/03 16:22:20 INFO  Log:13 - ========addToCartPageTest==========
+2023-10/03 16:24:02 INFO  Log:10 - =======ShoppingCartPageTest=========
+2023-10/03 16:24:17 INFO  Log:16 - user click on the checkout
+2023-10/03 16:24:17 INFO  Log:16 - ShoppingCartPageTest testcase is passed
+2023-10/03 16:24:17 INFO  Log:13 - ========ShoppingCartPageTest==========
+2023-10/03 16:25:57 INFO  Log:10 - =======BillingAddressPageTest=========
+2023-10/03 16:26:14 INFO  Log:16 - user successfully entered billing address
+2023-10/03 16:26:15 INFO  Log:16 - BillingAddressPageTest testcase is passed
+2023-10/03 16:26:15 INFO  Log:13 - ========BillingAddressPageTest==========
+2023-10/03 16:53:14 INFO  Log:10 - =======registerAccountTest=========
+2023-10/03 16:55:26 INFO  Log:10 - =======registerAccountTest=========
+2023-10/03 17:13:22 INFO  Log:10 - =======loginTest=========
+2023-10/03 17:13:25 INFO  Log:16 - successfully entered login credentials
+2023-10/03 17:13:25 INFO  Log:16 - loginTest testcase is passed
+2023-10/03 17:13:25 INFO  Log:13 - ========loginTest==========
+2023-10/03 17:13:31 INFO  Log:10 - =======loginTest=========
+2023-10/03 17:13:35 INFO  Log:16 - successfully entered login credentials
+2023-10/03 17:13:35 INFO  Log:16 - loginTest testcase is passed
+2023-10/03 17:13:35 INFO  Log:13 - ========loginTest==========
+2023-10/03 17:13:42 INFO  Log:10 - =======loginTest=========
+2023-10/03 17:13:45 INFO  Log:16 - successfully entered login credentials
+2023-10/03 17:13:45 INFO  Log:16 - loginTest testcase is passed
+2023-10/03 17:13:45 INFO  Log:13 - ========loginTest==========
+2023-10/03 17:13:51 INFO  Log:10 - =======loginTest=========
+2023-10/03 17:13:54 INFO  Log:16 - successfully entered login credentials
+2023-10/03 17:13:54 INFO  Log:16 - loginTest testcase is passed
+2023-10/03 17:13:54 INFO  Log:13 - ========loginTest==========
+2023-10/03 17:14:01 INFO  Log:10 - =======loginTest=========
+2023-10/03 17:14:03 INFO  Log:16 - successfully entered login credentials
+2023-10/03 17:14:03 INFO  Log:16 - loginTest testcase is passed
+2023-10/03 17:14:04 INFO  Log:13 - ========loginTest==========
+2023-10/03 17:28:57 INFO  Log:10 - =======verifyMyNopLogo=========
+2023-10/03 17:28:58 INFO  Log:16 - verifyMyNopLogo testcase is passed
+2023-10/03 17:28:58 INFO  Log:13 - ========verifyMyNopLogo==========
+2023-10/03 17:29:04 INFO  Log:10 - =======registerAccountTest=========
+2023-10/03 17:29:26 INFO  Log:16 - registerAccountTest testcase is passed
+2023-10/03 17:29:26 INFO  Log:13 - ========registerAccountTest==========
+2023-10/03 17:29:32 INFO  Log:10 - =======loginTest=========
+2023-10/03 17:29:36 INFO  Log:16 - successfully entered login credentials
+2023-10/03 17:29:36 INFO  Log:16 - loginTest testcase is passed
+2023-10/03 17:29:36 INFO  Log:13 - ========loginTest==========
+2023-10/03 17:29:42 INFO  Log:10 - =======loginTest=========
+2023-10/03 17:29:46 INFO  Log:16 - successfully entered login credentials
+2023-10/03 17:29:46 INFO  Log:16 - loginTest testcase is passed
+2023-10/03 17:29:46 INFO  Log:13 - ========loginTest==========
+2023-10/03 17:29:53 INFO  Log:10 - =======loginTest=========
+2023-10/03 17:29:55 INFO  Log:16 - successfully entered login credentials
+2023-10/03 17:29:55 INFO  Log:16 - loginTest testcase is passed
+2023-10/03 17:29:55 INFO  Log:13 - ========loginTest==========
+2023-10/03 17:30:02 INFO  Log:10 - =======loginTest=========
+2023-10/03 17:30:06 INFO  Log:16 - successfully entered login credentials
+2023-10/03 17:30:06 INFO  Log:16 - loginTest testcase is passed
+2023-10/03 17:30:06 INFO  Log:13 - ========loginTest==========
+2023-10/03 17:30:12 INFO  Log:10 - =======loginTest=========
+2023-10/03 17:30:15 INFO  Log:16 - successfully entered login credentials
+2023-10/03 17:30:15 INFO  Log:16 - loginTest testcase is passed
+2023-10/03 17:30:15 INFO  Log:13 - ========loginTest==========
+2023-10/03 17:30:20 INFO  Log:10 - =======searchProduct=========
+2023-10/03 17:30:25 INFO  Log:16 - user successfully click on the product
+2023-10/03 17:30:25 INFO  Log:16 - searchProduct testcase is passed
+2023-10/03 17:30:25 INFO  Log:13 - ========searchProduct==========
+2023-10/03 17:30:31 INFO  Log:10 - =======verifyTitle=========
+2023-10/03 17:30:34 INFO  Log:16 - verifyTitle testcase is passed
+2023-10/03 17:30:34 INFO  Log:13 - ========verifyTitle==========
+2023-10/03 17:30:41 INFO  Log:10 - =======SearchReasultPageTest=========
+2023-10/03 17:30:50 INFO  Log:16 - user clicks the htc
+2023-10/03 17:30:50 INFO  Log:16 - SearchReasultPageTest testcase is passed
+2023-10/03 17:30:50 INFO  Log:13 - ========SearchReasultPageTest==========
+2023-10/03 17:30:55 INFO  Log:10 - =======addToCartPageTest=========
+2023-10/03 17:31:05 INFO  Log:16 - user successfully entered quantity
+2023-10/03 17:31:08 INFO  Log:16 - addToCartPageTest testcase is passed
+2023-10/03 17:31:08 INFO  Log:13 - ========addToCartPageTest==========
+2023-10/03 17:31:14 INFO  Log:10 - =======ShoppingCartPageTest=========
+2023-10/03 17:31:27 INFO  Log:16 - user click on the checkout
+2023-10/03 17:31:27 INFO  Log:16 - ShoppingCartPageTest testcase is passed
+2023-10/03 17:31:27 INFO  Log:13 - ========ShoppingCartPageTest==========
+2023-10/03 17:31:34 INFO  Log:10 - =======BillingAddressPageTest=========
+2023-10/03 17:31:48 INFO  Log:16 - user successfully entered billing address
+2023-10/03 17:31:48 INFO  Log:16 - BillingAddressPageTest testcase is passed
+2023-10/03 17:31:48 INFO  Log:13 - ========BillingAddressPageTest==========
+2023-10/04 11:00:36 INFO  Log:10 - =======verifyMyNopLogo=========
+2023-10/04 11:00:37 INFO  Log:16 - verifyMyNopLogo testcase is passed
+2023-10/04 11:00:37 INFO  Log:13 - ========verifyMyNopLogo==========
+2023-10/04 11:00:44 INFO  Log:10 - =======registerAccountTest=========
+2023-10/04 11:01:04 INFO  Log:16 - registerAccountTest testcase is passed
+2023-10/04 11:01:04 INFO  Log:13 - ========registerAccountTest==========
+2023-10/04 11:01:11 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:01:16 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:01:16 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:01:16 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:01:22 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:01:26 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:01:26 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:01:26 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:01:33 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:01:37 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:01:37 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:01:37 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:01:44 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:01:47 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:01:48 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:01:48 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:01:55 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:02:00 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:02:00 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:02:00 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:02:08 INFO  Log:10 - =======searchProduct=========
+2023-10/04 11:02:15 INFO  Log:16 - user successfully click on the product
+2023-10/04 11:02:15 INFO  Log:16 - searchProduct testcase is passed
+2023-10/04 11:02:15 INFO  Log:13 - ========searchProduct==========
+2023-10/04 11:02:21 INFO  Log:10 - =======verifyTitle=========
+2023-10/04 11:02:27 INFO  Log:16 - verifyTitle testcase is passed
+2023-10/04 11:02:27 INFO  Log:13 - ========verifyTitle==========
+2023-10/04 11:02:35 INFO  Log:10 - =======SearchReasultPageTest=========
+2023-10/04 11:02:45 INFO  Log:16 - user clicks the htc
+2023-10/04 11:02:45 INFO  Log:16 - SearchReasultPageTest testcase is passed
+2023-10/04 11:02:45 INFO  Log:13 - ========SearchReasultPageTest==========
+2023-10/04 11:02:52 INFO  Log:10 - =======addToCartPageTest=========
+2023-10/04 11:03:04 INFO  Log:16 - user successfully entered quantity
+2023-10/04 11:03:14 INFO  Log:10 - =======ShoppingCartPageTest=========
+2023-10/04 11:03:43 INFO  Log:16 - user click on the checkout
+2023-10/04 11:03:43 INFO  Log:16 - ShoppingCartPageTest testcase is passed
+2023-10/04 11:03:43 INFO  Log:13 - ========ShoppingCartPageTest==========
+2023-10/04 11:03:48 INFO  Log:10 - =======BillingAddressPageTest=========
+2023-10/04 11:12:37 INFO  Log:10 - =======searchProduct=========
+2023-10/04 11:12:55 INFO  Log:10 - =======verifyTitle=========
+2023-10/04 11:13:13 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:13:30 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:13:47 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:14:04 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:14:30 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:14:46 INFO  Log:10 - =======verifyMyNopLogo=========
+2023-10/04 11:15:02 INFO  Log:10 - =======registerAccountTest=========
+2023-10/04 11:20:41 INFO  Log:10 - =======searchProduct=========
+2023-10/04 11:20:49 INFO  Log:16 - user successfully click on the product
+2023-10/04 11:20:49 INFO  Log:16 - searchProduct testcase is passed
+2023-10/04 11:20:49 INFO  Log:13 - ========searchProduct==========
+2023-10/04 11:20:57 INFO  Log:10 - =======SearchReasultPageTest=========
+2023-10/04 11:21:06 INFO  Log:16 - user clicks the htc
+2023-10/04 11:21:06 INFO  Log:16 - SearchReasultPageTest testcase is passed
+2023-10/04 11:21:06 INFO  Log:13 - ========SearchReasultPageTest==========
+2023-10/04 11:21:15 INFO  Log:10 - =======registerAccountTest=========
+2023-10/04 11:21:51 INFO  Log:10 - =======addToCartPageTest=========
+2023-10/04 11:22:00 INFO  Log:16 - user successfully entered quantity
+2023-10/04 11:22:04 INFO  Log:16 - addToCartPageTest testcase is passed
+2023-10/04 11:22:04 INFO  Log:13 - ========addToCartPageTest==========
+2023-10/04 11:22:10 INFO  Log:10 - =======ShoppingCartPageTest=========
+2023-10/04 11:22:29 INFO  Log:16 - user click on the checkout
+2023-10/04 11:22:29 INFO  Log:16 - ShoppingCartPageTest testcase is passed
+2023-10/04 11:22:29 INFO  Log:13 - ========ShoppingCartPageTest==========
+2023-10/04 11:22:37 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:22:43 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:22:43 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:22:43 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:22:49 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:22:55 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:22:55 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:22:55 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:23:03 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:23:07 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:23:07 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:23:07 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:23:15 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:23:18 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:23:18 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:23:18 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:23:25 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:23:30 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:23:30 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:23:30 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:28:04 INFO  Log:10 - =======addToCartPageTest=========
+2023-10/04 11:28:17 INFO  Log:16 - user successfully entered quantity
+2023-10/04 11:28:22 INFO  Log:16 - addToCartPageTest testcase is passed
+2023-10/04 11:28:22 INFO  Log:13 - ========addToCartPageTest==========
+2023-10/04 11:28:28 INFO  Log:10 - =======BillingAddressPageTest=========
+2023-10/04 11:28:44 INFO  Log:16 - user successfully entered billing address
+2023-10/04 11:28:45 INFO  Log:16 - BillingAddressPageTest testcase is passed
+2023-10/04 11:28:45 INFO  Log:13 - ========BillingAddressPageTest==========
+2023-10/04 11:36:21 INFO  Log:10 - =======verifyMyNopLogo=========
+2023-10/04 11:36:21 INFO  Log:16 - verifyMyNopLogo testcase is passed
+2023-10/04 11:36:21 INFO  Log:13 - ========verifyMyNopLogo==========
+2023-10/04 11:36:29 INFO  Log:10 - =======registerAccountTest=========
+2023-10/04 11:37:04 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:37:10 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:37:10 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:37:10 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:37:16 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:37:20 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:37:20 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:37:20 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:37:27 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:37:31 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:37:31 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:37:31 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:37:38 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:37:41 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:37:41 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:37:41 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:37:48 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:37:53 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:37:53 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:37:53 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:38:01 INFO  Log:10 - =======searchProduct=========
+2023-10/04 11:38:09 INFO  Log:16 - user successfully click on the product
+2023-10/04 11:38:09 INFO  Log:16 - searchProduct testcase is passed
+2023-10/04 11:38:09 INFO  Log:13 - ========searchProduct==========
+2023-10/04 11:38:15 INFO  Log:10 - =======verifyTitle=========
+2023-10/04 11:38:20 INFO  Log:16 - verifyTitle testcase is passed
+2023-10/04 11:38:20 INFO  Log:13 - ========verifyTitle==========
+2023-10/04 11:38:40 INFO  Log:10 - =======SearchReasultPageTest=========
+2023-10/04 11:38:51 INFO  Log:16 - user clicks the htc
+2023-10/04 11:38:51 INFO  Log:16 - SearchReasultPageTest testcase is passed
+2023-10/04 11:38:51 INFO  Log:13 - ========SearchReasultPageTest==========
+2023-10/04 11:38:58 INFO  Log:10 - =======addToCartPageTest=========
+2023-10/04 11:39:08 INFO  Log:16 - user successfully entered quantity
+2023-10/04 11:39:12 INFO  Log:16 - addToCartPageTest testcase is passed
+2023-10/04 11:39:12 INFO  Log:13 - ========addToCartPageTest==========
+2023-10/04 11:39:19 INFO  Log:10 - =======ShoppingCartPageTest=========
+2023-10/04 11:39:34 INFO  Log:16 - user click on the checkout
+2023-10/04 11:39:34 INFO  Log:16 - ShoppingCartPageTest testcase is passed
+2023-10/04 11:39:34 INFO  Log:13 - ========ShoppingCartPageTest==========
+2023-10/04 11:39:41 INFO  Log:10 - =======BillingAddressPageTest=========
+2023-10/04 11:40:03 INFO  Log:16 - user successfully entered billing address
+2023-10/04 11:40:03 INFO  Log:16 - BillingAddressPageTest testcase is passed
+2023-10/04 11:40:03 INFO  Log:13 - ========BillingAddressPageTest==========
+2023-10/04 11:40:18 INFO  Log:10 - =======verifyMyNopLogo=========
+2023-10/04 11:40:18 INFO  Log:16 - verifyMyNopLogo testcase is passed
+2023-10/04 11:40:18 INFO  Log:13 - ========verifyMyNopLogo==========
+2023-10/04 11:40:32 INFO  Log:10 - =======registerAccountTest=========
+2023-10/04 11:41:01 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:41:04 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:41:04 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:41:04 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:41:17 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:41:20 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:41:20 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:41:20 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:41:32 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:41:35 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:41:35 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:41:35 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:41:48 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:41:51 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:41:51 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:41:51 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:42:03 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:42:06 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:42:06 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:42:06 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:42:18 INFO  Log:10 - =======searchProduct=========
+2023-10/04 11:42:21 INFO  Log:16 - user successfully click on the product
+2023-10/04 11:42:21 INFO  Log:16 - searchProduct testcase is passed
+2023-10/04 11:42:21 INFO  Log:13 - ========searchProduct==========
+2023-10/04 11:42:34 INFO  Log:10 - =======verifyTitle=========
+2023-10/04 11:42:50 INFO  Log:10 - =======SearchReasultPageTest=========
+2023-10/04 11:43:06 INFO  Log:10 - =======addToCartPageTest=========
+2023-10/04 11:43:24 INFO  Log:10 - =======ShoppingCartPageTest=========
+2023-10/04 11:43:47 INFO  Log:10 - =======BillingAddressPageTest=========
+2023-10/04 11:51:08 INFO  Log:10 - =======verifyMyNopLogo=========
+2023-10/04 11:51:09 INFO  Log:16 - verifyMyNopLogo testcase is passed
+2023-10/04 11:51:09 INFO  Log:13 - ========verifyMyNopLogo==========
+2023-10/04 11:51:18 INFO  Log:10 - =======verifyMyNopLogo=========
+2023-10/04 11:51:19 INFO  Log:16 - verifyMyNopLogo testcase is passed
+2023-10/04 11:51:19 INFO  Log:13 - ========verifyMyNopLogo==========
+2023-10/04 11:51:22 INFO  Log:10 - =======registerAccountTest=========
+2023-10/04 11:51:36 INFO  Log:10 - =======registerAccountTest=========
+2023-10/04 11:52:03 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:52:09 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:52:10 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:52:10 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:52:10 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:52:13 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:52:13 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:52:13 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:52:29 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:52:34 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:52:34 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:52:34 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:52:34 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:52:37 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:52:37 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:52:37 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:52:42 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:52:46 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:52:46 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:52:46 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:52:55 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:52:55 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:52:58 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:52:58 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:52:58 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:52:58 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:52:58 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:52:58 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:53:05 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:53:10 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:53:10 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:53:10 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:53:16 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:53:18 INFO  Log:10 - =======searchProduct=========
+2023-10/04 11:53:20 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:53:20 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:53:20 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:53:30 INFO  Log:16 - user successfully click on the product
+2023-10/04 11:53:30 INFO  Log:16 - searchProduct testcase is passed
+2023-10/04 11:53:30 INFO  Log:13 - ========searchProduct==========
+2023-10/04 11:53:42 INFO  Log:10 - =======verifyTitle=========
+2023-10/04 11:53:44 INFO  Log:10 - =======loginTest=========
+2023-10/04 11:53:47 INFO  Log:16 - successfully entered login credentials
+2023-10/04 11:53:47 INFO  Log:16 - loginTest testcase is passed
+2023-10/04 11:53:47 INFO  Log:13 - ========loginTest==========
+2023-10/04 11:53:49 INFO  Log:16 - verifyTitle testcase is passed
+2023-10/04 11:53:49 INFO  Log:13 - ========verifyTitle==========
+2023-10/04 11:53:58 INFO  Log:10 - =======SearchReasultPageTest=========
+2023-10/04 11:54:04 INFO  Log:10 - =======searchProduct=========
+2023-10/04 11:54:08 INFO  Log:16 - user successfully click on the product
+2023-10/04 11:54:08 INFO  Log:16 - searchProduct testcase is passed
+2023-10/04 11:54:08 INFO  Log:13 - ========searchProduct==========
+2023-10/04 11:54:09 INFO  Log:16 - user clicks the htc
+2023-10/04 11:54:09 INFO  Log:16 - SearchReasultPageTest testcase is passed
+2023-10/04 11:54:09 INFO  Log:13 - ========SearchReasultPageTest========== 
+2023-10/04 11:54:19 INFO  Log:10 - =======addToCartPageTest=========
+2023-10/04 11:54:23 INFO  Log:10 - =======verifyTitle=========
+2023-10/04 11:54:35 INFO  Log:16 - user successfully entered quantity
+2023-10/04 11:54:39 INFO  Log:16 - addToCartPageTest testcase is passed
+2023-10/04 11:54:39 INFO  Log:13 - ========addToCartPageTest==========
+2023-10/04 11:54:52 INFO  Log:10 - =======ShoppingCartPageTest=========
+2023-10/04 11:54:53 INFO  Log:10 - =======SearchReasultPageTest=========
+2023-10/04 11:55:13 INFO  Log:16 - user click on the checkout
+2023-10/04 11:55:13 INFO  Log:16 - ShoppingCartPageTest testcase is passed
+2023-10/04 11:55:13 INFO  Log:13 - ========ShoppingCartPageTest==========
+2023-10/04 11:55:18 INFO  Log:10 - =======addToCartPageTest=========
+2023-10/04 11:55:27 INFO  Log:10 - =======BillingAddressPageTest=========
+2023-10/04 11:55:49 INFO  Log:10 - =======ShoppingCartPageTest=========
+2023-10/04 11:56:14 INFO  Log:10 - =======BillingAddressPageTest=========
+2023-10/04 11:57:13 INFO  Log:16 - user successfully entered billing address
+2023-10/04 11:57:13 INFO  Log:16 - BillingAddressPageTest testcase is passed
+2023-10/04 11:57:13 INFO  Log:13 - ========BillingAddressPageTest==========

@@ -1,0 +1,46 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 26, Failures: 7, Errors: 0, Skipped: 19, Time elapsed: 2.445 s <<< FAILURE! - in TestSuite
+setUp(com.mynop.testcases.AccountCreationPageTest)  Time elapsed: 1.72 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'browser' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
+
+
+setUp(com.mynop.testcases.AddToCartPageTest)  Time elapsed: 1.731 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'browser' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
+
+
+setUp(com.mynop.testcases.BillingAddressPageTest)  Time elapsed: 1.733 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'browser' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
+
+
+setUp(com.mynop.testcases.HomePageTest)  Time elapsed: 1.736 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'browser' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
+
+
+setUp(com.mynop.testcases.IndexPageTest)  Time elapsed: 1.746 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'browser' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
+
+
+setUp(com.mynop.testcases.SearchReasultPageTest)  Time elapsed: 1.963 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'browser' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
+
+
+setUp(com.mynop.testcases.ShoppingCartPageTest)  Time elapsed: 1.964 s  <<< FAILURE!
+org.testng.TestNGException: 
+
+Parameter 'browser' is required by BeforeMethod on method setUp but has not been marked @Optional or defined
+
+

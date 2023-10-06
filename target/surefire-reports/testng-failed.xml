@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)">
+    <classes>
+      <class name="com.mynop.testcases.AccountCreationPageTest">
+        <methods>
+          <include name="loadConfig"/>
+          <include name="tearDown"/>
+          <include name="afterSuite"/>
+          <include name="registerAccountTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.mynop.testcases.AccountCreationPageTest -->
+      <class name="com.mynop.testcases.AddToCartPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="loadConfig"/>
+          <include name="addToCartPageTest"/>
+          <include name="setUp"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- com.mynop.testcases.AddToCartPageTest -->
+      <class name="com.mynop.testcases.HomePageTest">
+        <methods>
+          <include name="searchProduct"/>
+          <include name="loadConfig"/>
+          <include name="verifyTitle"/>
+          <include name="tearDown"/>
+          <include name="afterSuite"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.mynop.testcases.HomePageTest -->
+      <class name="com.mynop.testcases.LoginPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="loadConfig"/>
+          <include name="loginTest"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- com.mynop.testcases.LoginPageTest -->
+      <class name="com.mynop.testcases.ShoppingCartPageTest">
+        <methods>
+          <include name="ShoppingCartPageTest"/>
+          <include name="loadConfig"/>
+          <include name="setUp"/>
+          <include name="afterSuite"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.mynop.testcases.ShoppingCartPageTest -->
+      <class name="com.mynop.testcases.IndexPageTest">
+        <methods>
+          <include name="loadConfig"/>
+          <include name="verifyMyNopLogo"/>
+          <include name="afterSuite"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.mynop.testcases.IndexPageTest -->
+      <class name="com.mynop.testcases.SearchReasultPageTest">
+        <methods>
+          <include name="loadConfig"/>
+          <include name="setUp"/>
+          <include name="afterSuite"/>
+          <include name="SearchReasultPageTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.mynop.testcases.SearchReasultPageTest -->
+      <class name="com.mynop.testcases.BillingAddressPageTest">
+        <methods>
+          <include name="loadConfig"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="BillingAddressPageTest"/>
+          <include name="afterSuite"/>
+        </methods>
+      </class> <!-- com.mynop.testcases.BillingAddressPageTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

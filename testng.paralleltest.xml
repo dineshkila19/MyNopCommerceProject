@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Cross_Browser" parallel="tests" thread-count="3">
+
+ 	<listeners>
+		<listener class-name="com.mynop.utility.ListenerClass"></listener>
+	</listeners>
+ 
+  <test thread-count="5" name="ChromeTest">
+  
+   <parameter name="browser" value="Chrome"></parameter>
+    <classes>
+      <class name="com.mynop.testcases.IndexPageTest"/>
+      <class name="com.mynop.testcases.AccountCreationPageTest"/>
+      <class name="com.mynop.testcases.LoginPageTest"/>
+      <class name="com.mynop.testcases.HomePageTest"/>
+      <class name="com.mynop.testcases.SearchReasultPageTest"/>
+      <class name="com.mynop.testcases.AddToCartPageTest"/>
+      <class name="com.mynop.testcases.ShoppingCartPageTest"/>
+      <class name="com.mynop.testcases.BillingAddressPageTest"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="FirefoxTest">
+  
+   <parameter name="browser" value="Firefox"></parameter>
+    <classes>
+      <class name="com.mynop.testcases.IndexPageTest"/>
+      <class name="com.mynop.testcases.AccountCreationPageTest"/>
+      <class name="com.mynop.testcases.LoginPageTest"/>
+      <class name="com.mynop.testcases.HomePageTest"/>
+      <class name="com.mynop.testcases.SearchReasultPageTest"/>
+      <class name="com.mynop.testcases.AddToCartPageTest"/>
+      <class name="com.mynop.testcases.ShoppingCartPageTest"/>
+      <class name="com.mynop.testcases.BillingAddressPageTest"/>
+      
+    </classes>
+  </test> <!-- Test -->
+  
+  <test thread-count="5" name="IETest">
+  
+   <parameter name="browser" value="IE"></parameter>
+    <classes>
+      <class name="com.mynop.testcases.IndexPageTest"/>
+      <class name="com.mynop.testcases.AccountCreationPageTest"/>
+      <class name="com.mynop.testcases.LoginPageTest"/>
+      <class name="com.mynop.testcases.HomePageTest"/>
+      <class name="com.mynop.testcases.SearchReasultPageTest"/>
+      <class name="com.mynop.testcases.AddToCartPageTest"/>
+      <class name="com.mynop.testcases.ShoppingCartPageTest"/>
+      <class name="com.mynop.testcases.BillingAddressPageTest"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
